@@ -17,6 +17,7 @@ Obs: all notebooks below use data generated from this notebook, so it's recommen
 - Dados: raw datasets obtained from insideairbnb.com and the Chicago Data Portal
 - Imagens: images for our website
 - Site: files (.zip) related to the website layout (hmtl, css, etc)
+- jupyter: files in .ipynb
 
 
 # How to run
