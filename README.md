@@ -25,3 +25,10 @@ Each notebook can be run individually, but it's recommended to run 'FDS-part1-da
 ## Needed to run
 Numpy, Scikit-learn, Pandas, MatPlotLib, math, decimal, ast, Seaborn, SciPy, Statsmodels.api, bokeh
 
+## Some Results of our work
+
+<img src="imagens/Screenshot (236).png">
+<img src="imagens/Screenshot (237).png">
+<img src="imagens/Screenshot (239).png">
+<img src="imagens/Screenshot (242).png">
+
